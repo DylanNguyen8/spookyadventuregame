@@ -33,11 +33,11 @@ choice3 = prompt("Now, yOu aRe iN thE sTorage roOm. YOu seE a litTle gIrl cRying
       }
 }
       if (choice2 == "NO") {
-            alert("YOu cHose tO inVestiGate The SToRage rOom. aRe yOu ScaRed???")
+            alert("YOu cHose tO noT inVestiGate The SToRage rOom. A GHOST JUMPSCARES YOU! YOU DIE! THE END!")
 
-choice3 = prompt("Now, yOu aRe iN thE sTorage roOm. YOu seE a litTle gIrl cRying iN the coRner, Do you: COMFORT oR RUN?");
-if (choice3 == "RUN"){
-alert("iT was A ghost tHaT feEls loneLy, RunNing aWay made Her feeL ANGRY! She cHaseS yOu yOu are Rewarded wiTh... DEATH! THE END!");
+//choice3 = prompt("Now, yOu aRe iN thE sTorage roOm. YOu seE a litTle gIrl cRying iN the coRner, Do you: COMFORT oR RUN?");
+      if (choice3 == "RUN"){
+      alert("iT was A ghost tHaT feEls loneLy, RunNing aWay made Her feeL ANGRY! She cHaseS yOu yOu are Rewarded wiTh... DEATH! THE END!");
       
       }
 
